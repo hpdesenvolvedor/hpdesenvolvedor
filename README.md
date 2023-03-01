@@ -2,7 +2,7 @@
 - 🤓 Desenvolvedor Front-end
 - 🌱 Estou no momento aprendendo Typescript e Angular
 - 👨‍💻 Estou buscando uma vaga como programador estágio/júnior
-- WhatsApp (11) 93008-8708
+- 📲 WhatsApp (11) 93008-8708
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpdesenvolvedor&theme=outrun&show_icons=true)
 
