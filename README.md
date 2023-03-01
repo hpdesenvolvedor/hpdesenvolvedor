@@ -24,3 +24,4 @@
   <a href="https://henriquenunes.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a> 
 </div>
 
+![snake gif](https://github.com/hpdesenvolvedor/hpdesenvolvedor/blob/output/github-contribution-grid-snake.svg)
