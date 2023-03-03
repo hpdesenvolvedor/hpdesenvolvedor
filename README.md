@@ -1,4 +1,4 @@
-- 👋 Olá, Eu sou Henrique Nunes!
+- 👋 Olá, Eu sou Henrique Nunes, graduando em Engenharia de Software.
 - 🤓 Desenvolvedor Front-end
 - 🌱 Estou no momento aprendendo Typescript e Angular
 - 👨‍💻 Estou buscando uma vaga como programador estágio/júnior
