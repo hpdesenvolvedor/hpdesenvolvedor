@@ -10,7 +10,7 @@
   <img align="center" alt="Rick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="angular-icons" height="30" width="40" src="https://raw.githubusercontent.com/hpdesenvolvedor/hpdesenvolvedor/b1883933601a4f3a4fe91b59cd1b6c7ff752c20b/icons-angular.svg">
+  
 </div>
 
   ##
