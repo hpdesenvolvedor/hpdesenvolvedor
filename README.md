@@ -1,7 +1,5 @@
 - 👋 Olá, Eu sou Henrique Nunes, graduando em Engenharia de Software.
 - 🤓 Desenvolvedor Front-end
-- 🌱 Migração de carreira
-- 👨‍💻 Estou buscando uma vaga como programador estágio/júnior
 - 📲 WhatsApp (11) 93008-8708
 
 
