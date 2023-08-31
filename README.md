@@ -1,5 +1,5 @@
-- 👋 Olá, Eu sou Henrique Nunes, graduando em Engenharia de Software.
-- 🤓 Desenvolvedor Front-end - Engenheiro de Software
+- 👋 Olá, Eu sou Henrique Nunes, graduando em Bacharel Engenharia de Software. (5º Semestre)
+- 🤓 Desenvolvedor Front-end - Engenheiro de Software | Javascript | Typescript | HTML | CSS
 - 📲 WhatsApp (11) 93008-8708
 
 
