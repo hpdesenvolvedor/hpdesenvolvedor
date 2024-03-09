@@ -1,5 +1,5 @@
 - 👋 Olá, Eu sou Henrique Nunes, graduando em Bacharel Engenharia de Software. (6º Semestre)
-- 🤓 Desenvolvedor Back-end - Engenheiro de Software | JAVA | Javascript | Typescript | React | HTML | CSS 
+- 🤓 Desenvolvedor Back-end - Engenheiro de Software | JAVA | Javascript | Typescript | HTML | CSS 
 - 📲 WhatsApp (11) 93008-8708
 
 
