@@ -1,4 +1,4 @@
-- 👋 Olá, Eu sou Henrique Nunes
+- 👋 Olá, sou Henrique Nunes
 - 🤓 Software Developer | JAVA | Javascript | Typescript | HTML | CSS | 
 - 📲 WhatsApp (11) 93008-8708
 
