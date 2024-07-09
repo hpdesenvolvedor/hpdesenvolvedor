@@ -1,5 +1,5 @@
 - 👋 Olá, sou Henrique Nunes
-- 🤓 Software Developer | JAVA | SQL | Spring Boot | Javascript | Typescript | HTML | CSS | 
+- 🤓 Software Developer | JAVA | MySQL | Spring Boot | Javascript | Typescript | HTML | CSS | 
 - 📲 WhatsApp (11) 93008-8708
 
 
