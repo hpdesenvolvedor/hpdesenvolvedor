@@ -7,10 +7,9 @@
 <div style="display: inline_block"><br>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>  
-  <img align="center" alt= "Cris-Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-  <img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/my-sql.png" alt="my-sql"/>      
+  <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 </div><br>
 
 ### GitHub Stats
