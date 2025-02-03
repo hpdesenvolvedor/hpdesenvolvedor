@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 
-### Technologias e ferramentas:
+### Tecnologias e ferramentas:
 
 <div style="display: inline_block"><br>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
